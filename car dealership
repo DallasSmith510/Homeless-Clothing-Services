@@ -1,0 +1,8 @@
+def test():
+    Cars=["dodge," "lambo," "cyber truck," "audi," "porsche"]
+    print(Cars)
+    print(len(cars))
+    print(cars[4])
+    print([1:4])
+    test()
+    

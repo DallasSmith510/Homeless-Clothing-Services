@@ -1,0 +1,22 @@
+def withdraw ():
+def deposit ():
+def balance ():
+def main (Welcome to LAnd ):
+username = input("what is your username?")
+Password = getpass.getpass()
+print (Password)
+print ("welcome ", username)
+checking = 600
+choice = int (input (1. withdrawe. deposit, 3.balance)
+if (choice==1
+print(you now have:", withdraw(checking)
+elif(choice==2)
+print('you now have, deposit(cheching')
+elif (choice==3):
+    print ("your balance is: , balance(checking")
+else:
+    print ("try again")
+    print ("Goodbye")
+    if __name__=='__main__':
+        main()3
+"if __name__ == "
